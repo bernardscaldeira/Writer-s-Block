@@ -1,12 +1,11 @@
 {
   "name": "writers-block",
   "private": true,
-  "version": "2.0.0",
+  "version": "4.0.0",
   "type": "module",
   "scripts": {
-    "dev": "vite",
     "build": "vite build",
-    "preview": "vite preview",
+    "dev": "vite",
     "deploy": "npm run build && wrangler deploy"
   },
   "dependencies": {
@@ -14,8 +13,7 @@
     "vite": "latest",
     "react": "latest",
     "react-dom": "latest",
-    "lucide-react": "latest",
-    "framer-motion": "latest"
+    "lucide-react": "latest"
   },
   "devDependencies": {
     "wrangler": "latest"
