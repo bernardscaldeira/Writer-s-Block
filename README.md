@@ -1,34 +1,29 @@
-# Writer's Block
+# Writer's Block v3 - Acervo completo
 
-Site autoral de Bernardo Rodrigues Caldeira, desenvolvido com React e Vite.
+Pacote consolidado com **32 obras únicas**:
 
-## Rodar localmente
+- **6 Crônicas**
+- **16 Reflexões**
+- **10 Cartas para minha filha**
 
-```bash
-npm install
-npm run dev
-```
+## Fontes consolidadas
+- LinkedIn
+- Blog antigo
+- Cartas para Letícia, de maio de 2024 a setembro de 2026
 
-## Gerar versão de produção
+## Regras editoriais aplicadas
+- uma obra gera somente uma entrada, ainda que tenha sido publicada em mais de uma plataforma;
+- `Lembranças e memórias` corresponde ao texto publicado no LinkedIn como `(Não) há tempo suficiente` e aparece apenas uma vez;
+- `Vai fazer o que na semana que vem?` foi tratado como versão anterior de `Planejamento, compromissos e a aceleração coletiva`;
+- coautoria preservada em `A importância da governança de dados nas organizações`;
+- versão mais completa ou mais recente usada como texto principal.
 
-```bash
-npm run build
-```
+## Recursos
+- páginas individuais e URLs permanentes;
+- busca e filtros por coleção;
+- coleção de cartas completa;
+- autoria, origem e link original;
+- roteamento compatível com Cloudflare Workers.
 
-A pasta publicada será `dist`.
-
-## Publicar no Cloudflare Pages
-
-1. Envie todos os arquivos deste projeto para o repositório `writers-block` no GitHub.
-2. No Cloudflare, abra **Workers & Pages**.
-3. Escolha **Create application > Pages > Import an existing Git repository**.
-4. Selecione o repositório `writers-block`.
-5. Use estas configurações:
-   - Production branch: `main`
-   - Build command: `npm run build`
-   - Build output directory: `dist`
-6. Clique em **Save and Deploy**.
-
-## Estrutura futura de conteúdo
-
-A próxima evolução será separar os textos em arquivos individuais dentro de uma pasta `content`, organizados em `cronicas`, `reflexoes` e `cartas`.
+## Atualizar no GitHub
+Substitua os arquivos do repositório pelos arquivos deste pacote e faça commit no branch `main`. O Cloudflare deverá executar novo build e publicar automaticamente.
