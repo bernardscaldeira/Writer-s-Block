@@ -1,0 +1,10 @@
+WRITER'S BLOCK V5 - CONTEUDO DO PACOTE
+
+Estrutura pronta para substituir o conteudo do repositorio local:
+- src/App.jsx: navegacao e nova secao de contato
+- src/index.css: estilos da secao de contato
+- src/content.js: acervo preservado
+- src/main.jsx: inicializacao preservada
+- demais arquivos: configuracao e metadados da release
+
+Versao registrada em package.json: 5.0.0
