@@ -3,18 +3,9 @@
     "transformacao-digital/ciclo-vida-produto.png",
     "transformacao-digital/gartner-hype-cycle.png",
     "busca-por-proposito/circulo-dourado.png",
-    "desmistificando-iot/iniciativas-iot-por-industria.png"
+    "desmistificando-iot/iniciativas-iot-por-industria.png",
+    "governanca-dados/processo-tomada-decisao.png",
+    "pensando-em-scrum/complexidade-desenvolvimento-produto.png"
   ],
-  "missing": [
-    {
-      "text": "A importância da governança de dados nas organizações",
-      "image": "Gráfico sobre tipos de solução analítica",
-      "status": "pendente"
-    },
-    {
-      "text": "Pensando em Scrum",
-      "image": "Gráfico de complexidade",
-      "status": "pendente"
-    }
-  ]
+  "missing": []
 }
