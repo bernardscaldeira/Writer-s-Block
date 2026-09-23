@@ -101,7 +101,7 @@ export const posts = [
   {
     "title": "Hiperautomação, 2025 e sua empresa",
     "slug": "hiperautomacao-2025-e-sua-empresa",
-    "category": "Reflexões",
+    "category": "Cadernos",
     "date": "2024-12-11",
     "displayDate": "2024-12-11",
     "authors": "Bernardo Rodrigues Caldeira",
@@ -157,7 +157,7 @@ export const posts = [
   {
     "title": "A importância da governança de dados nas organizações",
     "slug": "a-importancia-da-governanca-de-dados-nas-organizacoes",
-    "category": "Reflexões",
+    "category": "Cadernos",
     "date": "2023-03-08",
     "displayDate": "2023-03-08",
     "authors": "Rogério Carosi e Bernardo Rodrigues Caldeira",
@@ -171,7 +171,7 @@ export const posts = [
   {
     "title": "As múltiplas faces da transformação digital",
     "slug": "as-multiplas-faces-da-transformacao-digital",
-    "category": "Reflexões",
+    "category": "Cadernos",
     "date": "2020-11-26",
     "displayDate": "2020-11-26",
     "authors": "Bernardo Rodrigues Caldeira",
@@ -186,7 +186,7 @@ export const posts = [
   {
     "title": "A busca por propósito",
     "slug": "a-busca-por-proposito",
-    "category": "Reflexões",
+    "category": "Cadernos",
     "date": "2020-11-19",
     "displayDate": "2020-11-19",
     "authors": "Bernardo Rodrigues Caldeira",
@@ -201,7 +201,7 @@ export const posts = [
   {
     "title": "Planejamento, compromissos e a aceleração coletiva",
     "slug": "planejamento-compromissos-e-a-aceleracao-coletiva",
-    "category": "Crônicas",
+    "category": "Cadernos",
     "date": "2020-08-27",
     "displayDate": "2020-08-27",
     "authors": "Bernardo Rodrigues Caldeira",
@@ -216,7 +216,7 @@ export const posts = [
   {
     "title": "A verdadeira experiência do cliente",
     "slug": "a-verdadeira-experiencia-do-cliente",
-    "category": "Crônicas",
+    "category": "Cadernos",
     "date": "2020-08-05",
     "displayDate": "2020-08-05",
     "authors": "Bernardo Rodrigues Caldeira",
@@ -231,7 +231,7 @@ export const posts = [
   {
     "title": "O equilíbrio do P&L em tempos de COVID-19",
     "slug": "o-equilibrio-do-p-l-em-tempos-de-covid-19",
-    "category": "Reflexões",
+    "category": "Cadernos",
     "date": "2020-06-30",
     "displayDate": "2020-06-30",
     "authors": "Bernardo Rodrigues Caldeira",
@@ -246,7 +246,7 @@ export const posts = [
   {
     "title": "O que é o novo normal afinal?",
     "slug": "o-que-e-o-novo-normal-afinal",
-    "category": "Reflexões",
+    "category": "Cadernos",
     "date": "2020-06-16",
     "displayDate": "2020-06-16",
     "authors": "Bernardo Rodrigues Caldeira",
@@ -261,7 +261,7 @@ export const posts = [
   {
     "title": "Reflexões em momentos de pandemia",
     "slug": "reflexoes-em-momentos-de-pandemia",
-    "category": "Crônicas",
+    "category": "Cadernos",
     "date": "2020-06-08",
     "displayDate": "2020-06-08",
     "authors": "Bernardo Rodrigues Caldeira",
@@ -276,7 +276,7 @@ export const posts = [
   {
     "title": "Pensando em Scrum",
     "slug": "pensando-em-scrum",
-    "category": "Reflexões",
+    "category": "Cadernos",
     "date": "2019-09-01",
     "displayDate": "2019-09-01",
     "authors": "Bernardo Rodrigues Caldeira",
@@ -290,7 +290,7 @@ export const posts = [
   {
     "title": "A supervalorização da inovação",
     "slug": "a-supervalorizacao-da-inovacao",
-    "category": "Reflexões",
+    "category": "Cadernos",
     "date": "2018-12-12",
     "displayDate": "2018-12-12",
     "authors": "Bernardo Rodrigues Caldeira",
@@ -304,7 +304,7 @@ export const posts = [
   {
     "title": "O ciclo 5 a 2",
     "slug": "o-ciclo-5-a-2",
-    "category": "Crônicas",
+    "category": "Cadernos",
     "date": "2018-05",
     "displayDate": "2018-05",
     "authors": "Bernardo Rodrigues Caldeira",
@@ -318,7 +318,7 @@ export const posts = [
   {
     "title": "As coisas nas quais acredito",
     "slug": "as-coisas-nas-quais-acredito",
-    "category": "Crônicas",
+    "category": "Cadernos",
     "date": "2017-07",
     "displayDate": "2017-07",
     "authors": "Bernardo Rodrigues Caldeira",
@@ -333,7 +333,7 @@ export const posts = [
   {
     "title": "CEO moderno",
     "slug": "ceo-moderno",
-    "category": "Crônicas",
+    "category": "Cadernos",
     "date": null,
     "displayDate": "Blog antigo",
     "authors": "Bernardo Rodrigues Caldeira",
@@ -347,7 +347,7 @@ export const posts = [
   {
     "title": "Sobre liderança e seguidores",
     "slug": "sobre-lideranca-e-seguidores",
-    "category": "Reflexões",
+    "category": "Cadernos",
     "date": null,
     "displayDate": "Blog antigo",
     "authors": "Bernardo Rodrigues Caldeira",
@@ -361,7 +361,7 @@ export const posts = [
   {
     "title": "Grandes expectativas",
     "slug": "grandes-expectativas",
-    "category": "Reflexões",
+    "category": "Cadernos",
     "date": null,
     "displayDate": "Blog antigo",
     "authors": "Bernardo Rodrigues Caldeira",
@@ -375,7 +375,7 @@ export const posts = [
   {
     "title": "Desperate times",
     "slug": "desperate-times",
-    "category": "Reflexões",
+    "category": "Cadernos",
     "date": null,
     "displayDate": "Blog antigo",
     "authors": "Bernardo Rodrigues Caldeira",
@@ -389,7 +389,7 @@ export const posts = [
   {
     "title": "Geração Y & mercado de trabalho",
     "slug": "geracao-y-mercado-de-trabalho",
-    "category": "Reflexões",
+    "category": "Cadernos",
     "date": null,
     "displayDate": "Blog antigo",
     "authors": "Bernardo Rodrigues Caldeira",
@@ -403,7 +403,7 @@ export const posts = [
   {
     "title": "Uma outra orientação em gerenciamento de projetos",
     "slug": "uma-outra-orientacao-em-gerenciamento-de-projetos",
-    "category": "Reflexões",
+    "category": "Cadernos",
     "date": null,
     "displayDate": "Blog antigo",
     "authors": "Bernardo Rodrigues Caldeira",
@@ -417,7 +417,7 @@ export const posts = [
   {
     "title": "Colapso",
     "slug": "colapso",
-    "category": "Reflexões",
+    "category": "Cadernos",
     "date": null,
     "displayDate": "Blog antigo",
     "authors": "Bernardo Rodrigues Caldeira",
@@ -431,7 +431,7 @@ export const posts = [
   {
     "title": "Ruptura",
     "slug": "ruptura",
-    "category": "Reflexões",
+    "category": "Cadernos",
     "date": null,
     "displayDate": "Blog antigo",
     "authors": "Bernardo Rodrigues Caldeira",
@@ -445,7 +445,7 @@ export const posts = [
   {
     "title": "Desmistificando IoT",
     "slug": "desmistificando-iot",
-    "category": "Reflexões",
+    "category": "Cadernos",
     "date": null,
     "displayDate": "Blog antigo",
     "authors": "Bernardo Rodrigues Caldeira",
