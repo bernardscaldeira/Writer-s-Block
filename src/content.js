@@ -1,5 +1,20 @@
 export const posts = [
   {
+    "title": "Na boca do estômago",
+    "slug": "na-boca-do-estomago",
+    "category": "Cartas para minha filha",
+    "date": "2026-10-30",
+    "displayDate": "2026-10-30",
+    "authors": "Bernardo Rodrigues Caldeira",
+    "excerpt": "Uma música ouvida na infância ficou guardada não nos ouvidos, mas na boca do estômago. Quase quarenta anos depois, ela ainda dizia alguma coisa sobre quem eu era antes mesmo de eu saber.",
+    "content": "<p>Filha,</p><p>Quando eu tinha mais ou menos 5 ou 6 anos, lá por 1988, era a época dos tokusatsu no Brasil, aqueles heróis mascarados lutando contra monstros. Tinha um deles que eu nem gostava tanto, o Kamen Rider Black, mas tinha uma música forte que tocava em alguns episódios. Eu não sabia o nome dela. Não sabia quem tinha composto. E nem lembro em que cena exata ela tocava. Mas um fragmento dela ficou comigo. Uma sensação. Uma guitarra arrastada. As rufadas de tambores. Um violino melancólico. Eu reconstruí essa música na minha cabeça em várias ocasiões desde 1988. Eu lembro da música não nos meus ouvidos ou no meu cérebro, mas na boca do meu estômago.</p><p>Hoje, com ajuda da Inteligência Artificial e algumas buscas na Internet, eu procurei e encontrei a música. Ouvi algumas vezes e descobri que algumas coisas sobre nós mesmos se manifestam antes de sabermos quem somos.</p><p>Depois percebi que essa sensação continuou aparecendo pela minha vida.</p><p>Em trilhas sonoras de Danny Elfman.<br>Nas músicas do David Wise, em Donkey Kong Country 2.<br>Na guitarra de Mike McCready em “Black” e “Come Back”.<br>Na voz arranhada do Richie Sambora.<br>Na melancolia de Sienna Spiro.<br>No piano do Freddie Mercury.<br>Na guitarra de Prince em “Purple Rain”.<br>E em incontáveis outros lugares.</p><p>Quando eu era adolescente, eu dizia que não ligava pra música. Acho que só não sabia o quanto ela já importava. Mas com 16 anos isso transbordou e eu quis aprender guitarra. Tocar as músicas que me acertavam no estômago. Ter uma banda. Escrever melodias. E tudo isso veio. E espero que ainda volte. Música é uma arte fantástica. Aprender um instrumento foi uma das melhores decisões da minha vida. Espero poder cultivar isso muito mais do que cultivo hoje. Quem sabe, junto com você.</p><p>Ah, caso você queira saber, a música é “Moeru Omoi” (sentimento ardente, em tradução livre, pelo que busquei), do Eiji Kawamura, que eu não tenho a menor ideia quem ele é. Mas a música dele me pegou há quase 40 anos e me contou uma coisa sobre mim que eu só descobri anos depois.</p><p>Talvez você não goste das músicas de que eu gosto. Espero até que não goste de todas.<br>Mas espero que encontre as suas. E, quando encontrar uma que faça alguma coisa inexplicável dentro de você, não tente entendê-la depressa demais.</p><p>Quando você era pequena, uma das coisas que seu pai fazia era te mostrar músicas. Tocando no violão, reproduzindo playlists no banho ou deixando alguma coisa tocar pela casa, enquanto sua mãe trocava de roupa e se arrumava pra gente sair.</p><p>Escrevi essa carta olhando para uma foto sua, com um ano e sete meses, em uma aula de música na creche, mexendo em um pequeno xilofone. E pensando nisso tudo.</p><p>Escute sim com os ouvidos, mas veja o que vai até a boca do estômago. Porque talvez você esteja ouvindo uma coisa que só vai conseguir explicar quase quarenta anos depois. Me conta depois?</p><p>Beijos,<br>Papai</p>",
+    "origins": [
+      "Instagram"
+    ],
+    "sourceUrl": ""
+  },
+
+  {
     "title": "Passado e presente",
     "slug": "passado-e-presente",
     "category": "Cartas para minha filha",
